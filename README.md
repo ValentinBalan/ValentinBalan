@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Valentin, I'm a QA Automation Engineer. Check out my Linkedin account https://www.linkedin.com/in/valentinbalan/
-https://github.com/ValentinBalan/ValentinBalan/blob/main/QA%20img.jpg
+![]https://github.com/ValentinBalan/ValentinBalan/blob/main/QA%20img.jpg
 Skills: SQL / Postman API / Python / HTML5 / JS
 
 - 🔭 I’m currently working on BBMK Technologies  
