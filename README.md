@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Valentin, I'm a QA Automation Engineer. Check out my Linkedin account https://www.linkedin.com/in/valentinbalan/
 
-![QA Automation Engineer]<img src=https://www.einfochips.com/blog/wp-content/uploads/2021/12/QAOps-Integrating_Quality_Assurance_QA_into_Software_Delivery_Pipelines_Blog_Fetaured_Image.jpg>
+[QA Automation Engineer]<img src=https://www.einfochips.com/blog/wp-content/uploads/2021/12/QAOps-Integrating_Quality_Assurance_QA_into_Software_Delivery_Pipelines_Blog_Fetaured_Image.jpg>
 
 
 Skills: SQL / Postman API / Python / HTML5 / JS
