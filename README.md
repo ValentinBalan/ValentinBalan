@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Valentin, I'm a QA Automation Engineer. Check out my Linkedin account https://www.linkedin.com/in/valentinbalan/
 
-https://github.com/ValentinBalan/ValentinBalan/blob/main/istockphoto-1435220789-612x612.jpg
+[https://github.com/ValentinBalan/ValentinBalan/blob/main/istockphoto-1435220789-612x612.jpg]
 
 Skills: SQL / Postman API / Python / HTML5 / JS
 
