@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on BBMK Technologies  
   
-* Beside QA Automation, my other passion is soccer and travelling.   
+* Beside QA Automation, my other passion is soccer and travelling.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinbalan&label=Profile%20views&color=0e75b6&style=flat" alt="valentinbalan" /> </p>
 
