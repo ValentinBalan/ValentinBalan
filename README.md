@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa7500&size=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Valentin+Balan!;-;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa7500&size=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Valentin+Balan!;;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <img src=https://www.einfochips.com/blog/wp-content/uploads/2021/12/QAOps-Integrating_Quality_Assurance_QA_into_Software_Delivery_Pipelines_Blog_Fetaured_Image.jpg>
 
